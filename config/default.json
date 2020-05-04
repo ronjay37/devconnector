@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://ronjay37:ronjay3712345678@devconnector-yvruo.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
-
-}
-
